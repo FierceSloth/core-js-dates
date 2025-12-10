@@ -18,7 +18,7 @@
  * '04 Dec 1995 00:12:00 UTC' => 818035920000
  */
 function dateToTimestamp(/* date */) {
-  throw new Error('Not implemented');
+  throw new Error('Not implemented'); // start
 }
 
 /**
